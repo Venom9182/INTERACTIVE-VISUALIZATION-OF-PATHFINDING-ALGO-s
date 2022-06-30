@@ -37,7 +37,7 @@ SCREENSHOT OF WORKING ALGORITHM
 
 Dijkstra's Algorithm Applications:
 
-To find the shortest path
-In social networking applications
-In a telephone network
-To find the locations in the map
+* To find the shortest path
+* In social networking applications
+* In a telephone network
+* To find the locations in the map
